@@ -41,7 +41,7 @@ const Header = () => {
         transition={{ duration: 0.6, delay: 0.5 }}
         className="text-3xl sm:text-6xl lg:text-[66px] font-Ovo"
       >
-        Full Stack Developer <br /> Based in 
+        Advance Full Stack Developer <br /> Based in 
         <span 
   className="bg-clip-text text-transparent bg-cover    font-bold  "
   style={{ 
